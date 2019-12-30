@@ -421,7 +421,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>Simple</string>
+		<string>bluemac</string>
 		<key>Timeout</key>
 		<integer>0</integer>
 		<key>Volumes</key>
